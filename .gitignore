@@ -1,0 +1,3 @@
+*.iso
+*.pyc
+__pycache__/
