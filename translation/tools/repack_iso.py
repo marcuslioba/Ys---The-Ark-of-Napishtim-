@@ -28,7 +28,7 @@ REPLACEMENTS = {
     '/PSP_GAME/USRDIR/data/movie/im03b_kazaminooka_eng.srt':
         str(ROOT / 'output' / 'movie' / 'im03b_kazaminooka_eng.srt'),
     '/PSP_GAME/USRDIR/data/arc/idm.bin':
-        str(ROOT / 'output' / 'idm_safe.bin'),
+        str(ROOT / 'output' / 'idm.bin'),
 }
 
 print(f'Using translated files from: {ROOT / "output"}')
