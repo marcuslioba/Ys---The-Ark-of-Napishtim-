@@ -10,7 +10,7 @@
       "start": 3590,
       "end": 3710,
       "speaker": "Captain Ladoc",
-      "text": "Isso não parece bom...\r\n\r\nSeremos arrastados\r\n\r\nse chegarmos perto demais."
+      "text": "Isso nao parece bom...\r\n\r\nSeremos arrastados\r\n\r\nse chegarmos perto demais."
     },
     {
       "start": 3760,
@@ -22,13 +22,13 @@
       "start": 3830,
       "end": 3950,
       "speaker": "Dogi",
-      "text": "O Adol não está mesmo lá dentro, né?!"
+      "text": "O Adol nao esta mesmo la dentro,\r\nne?!"
     },
     {
       "start": 4040,
       "end": 4100,
       "speaker": "Geis",
-      "text": "Ele está... lá dentro."
+      "text": "Ele esta... la dentro."
     },
     {
       "start": 4100,
@@ -40,13 +40,13 @@
       "start": 4275,
       "end": 4350,
       "speaker": "Terra",
-      "text": "N-Não...!\r\n\r\nIsso não é justo!"
+      "text": "N-Nao...!\r\n\r\nIsso nao e justo!"
     },
     {
       "start": 4350,
       "end": 4490,
       "speaker": "Terra",
-      "text": "Por que o Adol sempre tem que arriscar\r\n\r\na vida dele...?"
+      "text": "Por que o Adol sempre tem que\r\narriscar\r\n\r\na vida dele...?"
     },
     {
       "start": 4510,
@@ -66,19 +66,19 @@
       "start": 3680,
       "end": 3820,
       "speaker": "Ur",
-      "text": "Uau!\r\n\r\nO que é aquilo?\r\n\r\nÉ incrível..."
+      "text": "Uau!\r\n\r\nO que e aquilo?\r\n\r\nE incrivel..."
     },
     {
       "start": 3820,
       "end": 3910,
       "speaker": "Ord",
-      "text": "O quê?\r\n\r\nComo isso é possível?"
+      "text": "O que?\r\n\r\nComo isso e possivel?"
     },
     {
       "start": 3910,
       "end": 4050,
       "speaker": "Ord",
-      "text": "Olha, aquilo não são... asas?"
+      "text": "Olha, aquilo nao sao... asas?"
     },
     {
       "start": 4110,
@@ -90,7 +90,7 @@
       "start": 4245,
       "end": 4480,
       "speaker": "Olha",
-      "text": "É a Alma...\r\n\r\nMãe... e os outros..."
+      "text": "E a Alma...\r\n\r\nMae... e os outros..."
     }
   ]
 }
