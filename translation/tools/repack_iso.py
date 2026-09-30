@@ -31,6 +31,8 @@ REPLACEMENTS = {
         str(ROOT / 'output' / 'idm.bin'),
     '/PSP_GAME/USRDIR/data/arc/init.bin':
         str(ROOT / 'output' / 'init.bin'),
+    '/PSP_GAME/USRDIR/data/arc/help.bin':
+        str(ROOT / 'output' / 'help.bin'),
 }
 
 print(f'Using translated files from: {ROOT / "output"}')
