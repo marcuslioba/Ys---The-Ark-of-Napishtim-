@@ -1,0 +1,310 @@
+{
+ "0": {
+  "name": "Livart",
+  "desc": "Espada de fio unico, Emelas azul.\r\nEncantada por espirito do vento."
+ },
+ "1": {
+  "name": "Blirante",
+  "desc": "Espada de fio duplo, Emelas vermelho.\r\nEncantada por espirito do fogo."
+ },
+ "2": {
+  "name": "Ericcil",
+  "desc": "Rapieira de Emelas dourado.\r\nEncantada por espirito do raio."
+ },
+ "3": {
+  "name": "Espada Longa",
+  "desc": "Espada de ferro comum.\r\nBastante gasta."
+ },
+ "4": {
+  "name": "Broquel",
+  "desc": "DEF+6\r\nEscudo de madeira facil de usar.\r\nReforcado com disco de ferro."
+ },
+ "5": {
+  "name": "Escudo Redondo",
+  "desc": "DEF+12\r\nEscudo redondo de aco.\r\nBem pesado, mas com mais DEF."
+ },
+ "6": {
+  "name": "Escudo Rehda",
+  "desc": "DEF+18\r\nProtege contra espiritos.\r\nDiz-se que traz muita sorte."
+ },
+ "7": {
+  "name": "Escudo Losango",
+  "desc": "DEF+25\r\nFormato de losango, liga especial.\r\nLeve, mas com alto DEF."
+ },
+ "8": {
+  "name": "Escudo de Galba",
+  "desc": "DEF+30  STR+5\r\nEscudo de osso da Calamidade\r\nItinerante, tem ATK e alto DEF."
+ },
+ "9": {
+  "name": "Escudo de Emelas",
+  "desc": "DEF+40\r\nEscudo feito de Emel puro.\r\nAumenta recuperacao de MP."
+ },
+ "10": {
+  "name": "Couro Resistente",
+  "desc": "DEF+8\r\nPele de animal curtida.\r\nFeito pelos Rehda."
+ },
+ "11": {
+  "name": "Cota de Aneis",
+  "desc": "DEF+16\r\nArmadura de aneis conectados.\r\nLeve, agil e eficaz."
+ },
+ "12": {
+  "name": "Cota do Bandido",
+  "desc": "DEF+24  GOLD+10%\r\nCouro endurecido com resina.\r\nArmadura preferida de bandidos."
+ },
+ "13": {
+  "name": "Peitoral",
+  "desc": "DEF+32\r\nFeito de liga especial.\r\nLeve, mas com alto DEF."
+ },
+ "14": {
+  "name": "Armadura de Galba",
+  "desc": "DEF+42\r\nArmadura de osso da Calamidade\r\nItinerante. Causa \"Veneno\" em quem usa."
+ },
+ "15": {
+  "name": "Armadura de Emelas",
+  "desc": "DEF+50  MaxHP+10%\r\nArmadura feita de Emel puro.\r\nAs vezes anula ataques."
+ },
+ "16": {
+  "name": "Titonuts",
+  "desc": "Recupera 20 HP.\r\nPequenos animais adoram esta\r\nnoz de arvore muito nutritiva."
+ },
+ "17": {
+  "name": "Mel",
+  "desc": "Recupera 50 HP.\r\nNectar acumulado por abelhas\r\nde Canaan. Mais doce que o eresiano."
+ },
+ "18": {
+  "name": "Erva",
+  "desc": "Recupera 100 HP.\r\nAjuda a fechar ferimentos.\r\nValorizada desde tempos antigos."
+ },
+ "19": {
+  "name": "Carne de Ave Selvagem",
+  "desc": "Recupera 180 HP.\r\nCarne defumada de ave selvagem.\r\nDeliciosa quando cozida."
+ },
+ "20": {
+  "name": "Pocao Azul",
+  "desc": "Recupera 300 HP.\r\nPocao azul clara feita de uma\r\nflor que cresce sob a terra."
+ },
+ "21": {
+  "name": "Agua de Capla",
+  "desc": "Elixir que recupera todo o HP,\r\ncura todos os efeitos ruins,\r\ne restaura totalmente o MP."
+ },
+ "22": {
+  "name": "Semente de Vitalidade",
+  "desc": "MaxHP+5\r\nUma semente que brilha fracamente.\r\nAumenta o HP maximo."
+ },
+ "23": {
+  "name": "Semente de Poder",
+  "desc": "MaxSTR+1\r\nUma semente que brilha fracamente.\r\nAumenta o ATK."
+ },
+ "24": {
+  "name": "Semente de Defesa",
+  "desc": "MaxDEF+1\r\nUma semente que brilha fracamente.\r\nAumenta o DEF."
+ },
+ "25": {
+  "name": "Flor de Kamio",
+  "desc": "Cura \"Veneno\". Flor com \r\nfragrancia de menta. Usada como\r\noferenda em cerimonias."
+ },
+ "26": {
+  "name": "Fruta Oroi",
+  "desc": "Fruta picante que cura \"Lentidao,\" \r\n\"Maldicao\" e \"Confusao.\" \r\nUsada como restaurativo."
+ },
+ "27": {
+  "name": "Cogumelo Limuriano",
+  "desc": "Cura todos os efeitos ruins.\r\nBrilha azul-esbranquicado em\r\nlugares escuros."
+ },
+ "28": {
+  "name": "Pulseira de Madeira",
+  "desc": "STR+2  DEF+2\r\nPulseira feita a mao pela Isha.\r\nSimples, mas bem feita."
+ },
+ "29": {
+  "name": "Marreta de Emel",
+  "desc": "Amuleto de marreta feito de Emel.\r\nGanha Emel extra quando equipado."
+ },
+ "30": {
+  "name": "Garra Sangrenta",
+  "desc": "Acessorio sinistro em forma de dedo.\r\nRecupera HP a cada inimigo morto."
+ },
+ "31": {
+  "name": "Moeda de Prata da Sorte",
+  "desc": "Moeda com perfil de uma princesa;\r\nso algumas dezenas foram cunhadas.\r\nDiz-se que traz muita sorte."
+ },
+ "32": {
+  "name": "Sino do Silencio",
+  "desc": "Um sino inaudivel a humanos.\r\nFeito especialmente contra\r\nmonstros de casca dura."
+ },
+ "33": {
+  "name": "Luva do Ladrao",
+  "desc": "Luva velha do Lloyd.\r\nGanha Ouro extra quando equipada."
+ },
+ "34": {
+  "name": "Fragmento de Arco-iris",
+  "desc": "Cristal de Emel prismatico;\r\nbrilha forte no escuro.\r\nRevela formas verdadeiras ocultas."
+ },
+ "35": {
+  "name": "Orbe Eldiano",
+  "desc": "Gema que absorve poder espiritual.\r\nMelhora a recuperacao de MP."
+ },
+ "36": {
+  "name": "Medalha da Luz Estelar",
+  "desc": "Condecoracao militar romuna.\r\nGanha EXP extra quando equipada."
+ },
+ "37": {
+  "name": "Bracelete de Prata",
+  "desc": "Pulseira em forma de serpente.\r\nDefende contra \"Veneno.\""
+ },
+ "38": {
+  "name": "Luva de Emelas",
+  "desc": "STR+5  DEF+5\r\nLuva feita de Emel puro;\r\ntem ATK e DEF altos."
+ },
+ "39": {
+  "name": "Protetor de Emelas",
+  "desc": "DEF+5\r\nCaneleiras feitas de Emel puro.\r\nGanha HP ao ficar parado."
+ },
+ "40": {
+  "name": "Coroa de Emelas",
+  "desc": "MaxHP+50%\r\nCoroa feita de Emel puro. \r\nAumenta sorte e HP maximo."
+ },
+ "41": {
+  "name": "Mao de Galba",
+  "desc": "STR+10  DEF-10\r\nLuvas de osso da Calamidade\r\nItinerante, trocam DEF por ATK."
+ },
+ "42": {
+  "name": "Brinco Runico",
+  "desc": "Ouro com lapis-lazuli.\r\nDefende contra \"Confusao.\""
+ },
+ "43": {
+  "name": "Talisma Magico",
+  "desc": "Amuleto com escrita antiga.\r\nDefende contra \"Maldicao.\""
+ },
+ "44": {
+  "name": "Cinto Pesado",
+  "desc": "DEF+6\r\nAumenta o DEF, mas e pesado.\r\nDeixa quem usa \"Lento.\""
+ },
+ "45": {
+  "name": "Pedra da Luz do Dia",
+  "desc": "Talisma com o poder do amanhecer.\r\nQuando equipado, traz quem usa\r\nde volta a vida uma vez."
+ },
+ "46": {
+  "name": "Botas Silfides",
+  "desc": "Estas botas abencoadas pelo vento\r\ncontrariam os efeitos de \"Lento.\""
+ },
+ "47": {
+  "name": "Emblema do Deus Alado",
+  "desc": "Imagem do deus alado eldiano.\r\nPreve todos os efeitos ruins\r\nquando equipado."
+ },
+ "48": {
+  "name": "Espelho de Zeme",
+  "desc": "Espelho branco de Emelas. A alma\r\nde Alma habita nele; heranca\r\ndas sacerdotisas Rehda."
+ },
+ "49": {
+  "name": "Fragmento de Espelho",
+  "desc": "Fragmento roubado do altar.\r\nEncontrado no topo de Grana-Vallis."
+ },
+ "50": {
+  "name": "Fragmento de Espelho",
+  "desc": "Fragmento roubado do altar.\r\nEncontrado nas Ruinas da Amnesia."
+ },
+ "51": {
+  "name": "Fragmento de Espelho",
+  "desc": "Fragmento roubado do altar.\r\nEncontrado nas profundezas da\r\nCaverna de Limewater."
+ },
+ "52": {
+  "name": "Tabula Azul",
+  "desc": "Tabuleta de pedra Emelas azul;\r\nescrita antiga atras."
+ },
+ "53": {
+  "name": "Tabula Vermelha",
+  "desc": "Tabuleta de pedra Emelas vermelha;\r\nescrita antiga atras."
+ },
+ "54": {
+  "name": "Tabula Dourada",
+  "desc": "Tabuleta de pedra Emelas dourada;\r\nescrita antiga atras."
+ },
+ "55": {
+  "name": "Tabula Negra",
+  "desc": "Tabuleta de pedra Emelas negra;\r\nescrita antiga atras."
+ },
+ "56": {
+  "name": "Tabula Branca",
+  "desc": "Tabuleta de pedra Emelas branca;\r\nescrita antiga atras."
+ },
+ "57": {
+  "name": "Asa de Alma",
+  "desc": "Este ornamento te teletransporta\r\npara fora de masmorras. Pode ser usado mais de uma vez."
+ },
+ "58": {
+  "name": "Carta para Baslam",
+  "desc": "Dada por Quval, dos Rehda.\r\nEntregue ao mercador Baslam\r\nnuma cidade da Ilha de Canaan."
+ },
+ "59": {
+  "name": "Talisma Gratios",
+  "desc": "Talisma do Deus do Mar Gratios,\r\ndeus guardiao de Altago; quem\r\no usa pode respirar debaixo d'agua."
+ },
+ "60": {
+  "name": "Chave de Romun",
+  "desc": "Chave de aco resistente,\r\nesculpida com o emblema imperial."
+ },
+ "61": {
+  "name": "Chave do Almirante",
+  "desc": "Chave dourada e imponente,\r\nesculpida com um emblema de sapo."
+ },
+ "62": {
+  "name": "Pikkard",
+  "desc": "Animais criados em Rimorge;\r\nfugiram para varios lugares quando\r\na Frota Romuna atacou."
+ },
+ "63": {
+  "name": "Medalha da Wyvern",
+  "desc": "Disco pesado e robusto, esculpido\r\ncom um dragao enrolado."
+ },
+ "64": {
+  "name": "Influencia de Rose",
+  "desc": "Bilhete da Rose para o irmao\r\ncacula, Cloa: \"Compre o equipamento\r\ndesta pessoa por um preco alto.\""
+ },
+ "65": {
+  "name": "Aguardente dos Piratas",
+  "desc": "Aguardente lendaria encontrada no\r\nporao de um navio pirata. Aroma\r\nesplendido e sabor suave."
+ },
+ "66": {
+  "name": "Medalhao de Ouro",
+  "desc": "Medalhao de ouro simples\r\ncom o relevo de uma familia\r\nde aparencia feliz."
+ },
+ "67": {
+  "name": "Mapa de Canaan",
+  "desc": "Mapa das Ilhas de Canaan.\r\nRaba levou 3 anos para faze-lo."
+ },
+ "68": {
+  "name": "G1",
+  "desc": null
+ },
+ "69": {
+  "name": "G5",
+  "desc": null
+ },
+ "70": {
+  "name": "G30",
+  "desc": null
+ },
+ "71": {
+  "name": "G150",
+  "desc": null
+ },
+ "72": {
+  "name": "G800",
+  "desc": null
+ },
+ "73": {
+  "name": "Pena Rehda",
+  "desc": "Adorno de pena usado por\r\nguerreiros Rehda. Abre o caminho\r\npara a Caverna Selada."
+ },
+ "74": {
+  "name": "Chave da Caverna",
+  "desc": "Dada aos guerreiros Rehda,\r\nela destranca a porta da\r\nCaverna Selada."
+ },
+ "75": {
+  "name": "Chave Selada",
+  "desc": "So o guerreiro Rehda escolhido sera\r\nagraciado com esta chave. Ela destranca\r\na porta da Caverna Selada."
+ },
+ "76": {
+  "name": "Diario de Raba",
+  "desc": "Registros das experiencias de Raba.\r\nDetalha a ecologia das Ilhas\r\ne os eventos desde que ficou preso."
+ }
+}
