@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 # NOT tracked in git (see .gitignore). It only needs to exist once on disk; if
 # your checkout moves, update this path to point at your copy of the original.
 SRC = r"C:\Users\USER\Downloads\Ys The Ark of Napishtim\Ys - The Ark of Napishtim (USA).iso"
-DST = str(ROOT / 'output' / 'Ys - The Ark of Napishtim (PT-BR) v3.iso')
+DST = str(ROOT / 'output' / 'Ys - The Ark of Napishtim (PT-BR) v4.iso')
 
 REPLACEMENTS = {
     '/PSP_GAME/USRDIR/data/movie/im03a_kaizoku_eng.srt':
