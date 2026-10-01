@@ -80,16 +80,22 @@ def apply_translations(blocks):
         for msg in block['messages']:
             new_pages = []
             for page_bytes in msg['pages']:
+                # A few tutorial lines embed raw PSP button-icon bytes
+                # (e.g. 0x81 0xA0) that aren't valid cp1252 -- latin-1
+                # decodes every byte losslessly, so it's used as a
+                # fallback just for those pages (and to re-encode them
+                # back the same way, so the icon bytes round-trip).
                 try:
                     text = page_bytes.decode('cp1252')
+                    encoding = 'cp1252'
                 except UnicodeDecodeError:
-                    new_pages.append(page_bytes)
-                    continue
+                    text = page_bytes.decode('latin-1')
+                    encoding = 'latin-1'
                 new_text = translations.get(text)
                 if new_text is None:
                     new_pages.append(page_bytes)
                 else:
-                    new_pages.append(new_text.encode('cp1252'))
+                    new_pages.append(new_text.encode(encoding))
                     replaced += 1
             msg['pages'] = new_pages
     return replaced
