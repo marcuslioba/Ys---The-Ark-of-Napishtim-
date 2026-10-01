@@ -69,6 +69,44 @@
       afeta a tradução principal, mas significa que ainda existem falas
       (help/tutorial) nunca extraídas nem traduzidas.
 
+### Handbook (bios de personagens e monstros) — traduzido
+- `data/arc/handbook.bin` é um contêiner `arc` (ver `tools/arc_container.py`);
+  o texto fica só na **última** entrada, `charadb.dat` (22.838 bytes, sem
+  compressão, sem cabeçalho nem tabela de índice). São 125 registros colados
+  um atrás do outro:
+  - `char name[32]` (nome exibido, latin-1, preenchido com nulos)
+  - `uint8 page_count` (1 a 3)
+  - para cada página: `uint8 len` + `len` bytes de texto (sem terminador).
+    O byte que parecia um "marcador de página" (`'n'`, `'W'`, ...) é na
+    verdade o **tamanho da página** (`'n'` = 0x6E = 110 bytes) — então ao
+    traduzir ele precisa ser recalculado, e cada página tem no máximo 255
+    bytes. `\n` = quebra de linha manual (o jogo não faz word-wrap); o inglês
+    sempre deixa um espaço antes do `\n`, e algumas páginas terminam em `\n`.
+  - `char icon[32]` (caminho, sempre começa com `data\`, ex.
+    `data\title\human_001.dds`)
+  - **só nos registros de monstro/chefe** (ícone `mons_NNN`/`boss_NNN`):
+    `5 × uint32` de estatísticas (HP, Ouro, ATK, DEF, EXP — ex. Quia =
+    42/2/33/20/15; Galba-Roa 1ª forma tem EXP 0, como diz o próprio texto).
+  - Ordem: 31 humanos (`human_*`), 22 Rehda (`rehda_*`), 72 monstros/chefes
+    (começando pelo chefe Geis, `mons_056`). Os "20 bytes de trailer" no fim
+    do arquivo são só as estatísticas do último monstro (Archis). O registro
+    "estranho" depois do Geis com nome binário era o parser antigo lendo as
+    estatísticas do Geis como se fossem o nome do próximo registro.
+- `tools/handbook_container.py` faz parse/serialize (round-trip byte-a-byte
+  verificado no arquivo inteiro). `tools/rebuild_handbook.py` aplica
+  `extracted/handbook_por.json` (125 registros, inglês + `name_por` /
+  `pages_por`, sem acentos), re-quebra cada página em no máximo 3 linhas de
+  37 caracteres (limites observados no inglês), mantém número de páginas,
+  ícone e estatísticas, re-parseia o resultado e compara com o original, e
+  grava `output/handbook.bin` (só o tamanho da entrada `charadb.dat` muda na
+  tabela do contêiner; o arquivo é alinhado a 2048 bytes como o original).
+- Nomes: só os descritivos foram traduzidos (Almirante Agares, Capitao Ladoc,
+  Soldado Romuno, Dollon Verde/Azul/..., Galba-Roa (Segunda Forma), Birandi
+  (Imitacao)); os nomes de monstros comuns não aparecem em nenhum outro
+  arquivo do jogo (idm.bin/EBOOT/enemy*.bin), então não servem de chave de
+  busca — são só texto de exibição.
+- **Ainda não testado no PPSSPP.**
+
 ### Não investigado
 - `data/arc/help.bin` (texto de ajuda, multilíngue, não comprimido — mais fácil
   que idm.bin, já que é pequeno: 10KB) — não extraído/traduzido ainda.
@@ -91,6 +129,8 @@
 - `rebuild_idm.py` — reconstrói o `idm.bin` com o texto traduzido, atualizando
   o campo de tamanho de cada entrada. **Funciona estruturalmente, mas o
   resultado quebra o jogo — ver acima.**
+- `handbook_container.py` / `rebuild_handbook.py` — parse/rebuild do
+  `charadb.dat` dentro de `handbook.bin` (bios do Handbook; ver seção acima).
 - `scan_text.py` — varredura genérica de streams zlib em arquivos `arc/*.bin`
   (útil para achar texto solto em outros arquivos do jogo).
 
