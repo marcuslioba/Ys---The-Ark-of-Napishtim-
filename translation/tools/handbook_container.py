@@ -127,6 +127,46 @@ def serialize(records) -> bytes:
     return bytes(out)
 
 
+def clean_text(page: str) -> str:
+    """A page's prose with the manual line breaks removed (for translators)."""
+    return ' '.join(line.strip() for line in page.split('\n') if line.strip())
+
+
+# Layout limits observed in the English data: every page is at most 3
+# lines, and lines are <= 39 chars (almost all <= 37). The engine does not
+# word-wrap on its own, so translated text is re-wrapped to these limits.
+MAX_LINE = 37
+MAX_LINES = 3
+
+
+def wrap_page(text: str, trailing_newline: bool = False,
+              width: int = MAX_LINE, max_lines: int = MAX_LINES) -> str:
+    """Greedy word-wrap `text` into the in-game page format: lines joined
+    by ' \\n' (space kept before the break, like the English). A literal
+    '\\n' in `text` forces a break. Raises if the result exceeds the
+    page's line budget."""
+    lines = []
+    for segment in text.split('\n'):
+        cur = ''
+        for word in segment.split():
+            if len(word) > width:
+                raise ValueError(f'word too long for a line: {word!r}')
+            if not cur:
+                cur = word
+            elif len(cur) + 1 + len(word) <= width:
+                cur += ' ' + word
+            else:
+                lines.append(cur)
+                cur = word
+        lines.append(cur)
+    if len(lines) > max_lines:
+        raise ValueError(f'{len(lines)} lines > {max_lines}: {lines!r}')
+    out = ' \n'.join(lines)
+    if trailing_newline:
+        out += '\n'
+    return out
+
+
 def verify_roundtrip(chunk: bytes) -> int:
     """Assert serialize(parse(chunk)) == chunk; return the record count."""
     records = parse(chunk)

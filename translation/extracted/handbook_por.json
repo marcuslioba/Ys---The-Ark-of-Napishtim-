@@ -1,0 +1,1665 @@
+[
+ {
+  "id": 0,
+  "section": "human",
+  "icon": "data\\title\\human_001.dds",
+  "name": "Adol",
+  "name_por": "Adol",
+  "pages": [
+   "Nicknamed \"Adol the Red\" because of his flaming red hair and armor, Adol lives for the thrill of adventure.",
+   "Even at his young age, tales of his valiant exploits have spread throughout the land."
+  ],
+  "pages_por": [
+   "Chamado de \"Adol, o Vermelho\" pelo cabelo e pela armadura vermelhos, Adol vive pela emocao da aventura.",
+   "Apesar da pouca idade, as historias de seus feitos heroicos ja se espalharam por toda parte."
+  ]
+ },
+ {
+  "id": 1,
+  "section": "human",
+  "icon": "data\\title\\human_002.dds",
+  "name": "Admiral Agares",
+  "name_por": "Almirante Agares",
+  "pages": [
+   "The smug admiral of the Romun Fleet, this aristocrat dreams of someday securing a seat in the Romun senate.",
+   "Yet what he plans to do in that position of power, nobody quite knows..."
+  ],
+  "pages_por": [
+   "O arrogante almirante da Frota Romuna. Este aristocrata sonha com uma cadeira no senado romuno.",
+   "Mas o que ele pretende fazer com tanto poder, ninguem sabe ao certo..."
+  ]
+ },
+ {
+  "id": 2,
+  "section": "human",
+  "icon": "data\\title\\human_003.dds",
+  "name": "Terra",
+  "name_por": "Terra",
+  "pages": [
+   "The daughter of the pirate Ladoc, this high-spirited girl met Adol in Sandoria three years ago.",
+   "During a Romun attack, Adol saves her life, but, as fate would have it, gets swept away himself."
+  ],
+  "pages_por": [
+   "Filha do pirata Ladoc, esta garota cheia de energia conheceu Adol em Sandoria ha tres anos.",
+   "Adol salva a vida dela num ataque romuno, mas, por obra do destino, acaba sendo levado pelo mar."
+  ]
+ },
+ {
+  "id": 3,
+  "section": "human",
+  "icon": "data\\title\\human_004.dds",
+  "name": "Dogi",
+  "name_por": "Dogi",
+  "pages": [
+   "Dogi, a good friend of Adol, is a pirate and a vagabond. Nevertheless, he also has a strong sense of honor.",
+   "He's a musclehead who has saved Adol's life time and time again."
+  ],
+  "pages_por": [
+   "Grande amigo de Adol, Dogi e pirata e andarilho. Mesmo assim, tem um forte senso de honra.",
+   "Um brutamontes que ja salvou a vida de Adol inumeras vezes."
+  ]
+ },
+ {
+  "id": 4,
+  "section": "human",
+  "icon": "data\\title\\human_005.dds",
+  "name": "Raba",
+  "name_por": "Raba",
+  "pages": [
+   "Hailing from the land of Celceta, the scholar Raba is driven by his relentless quest for knowledge.",
+   "His quest has led him to Canaan, where he has been living now for six years."
+  ],
+  "pages_por": [
+   "Vindo da terra de Celceta, o estudioso Raba e movido por uma sede incansavel de conhecimento.",
+   "Essa busca o trouxe a Canaan, onde ele ja vive ha seis anos."
+  ]
+ },
+ {
+  "id": 5,
+  "section": "human",
+  "icon": "data\\title\\human_006.dds",
+  "name": "Captain Ladoc",
+  "name_por": "Capitao Ladoc",
+  "pages": [
+   "Ladoc, the captain of the Tres Mares, also goes by the name \"One-Eyed Ladoc\".",
+   "He sails around the world, hunting for treasure. He claims there's some hidden treasure in the Great Vortex."
+  ],
+  "pages_por": [
+   "Ladoc, capitao do Tres Mares, tambem e conhecido como \"Ladoc Caolho\".",
+   "Ele navega pelo mundo atras de tesouros e diz que ha um tesouro escondido no Grande Vortice."
+  ]
+ },
+ {
+  "id": 6,
+  "section": "human",
+  "icon": "data\\title\\human_007.dds",
+  "name": "Baslam",
+  "name_por": "Baslam",
+  "pages": [
+   "Originally from Altago, a city on the coast of North Afroca, Baslam now works as a merchant in Rimorge.",
+   "He works tirelessly day and night to fulfill his dream of turning Rimorge into a glorious city."
+  ],
+  "pages_por": [
+   "Natural de Altago, cidade no litoral norte de Afroca, Baslam hoje e mercador em Rimorge.",
+   "Trabalha dia e noite sem descanso pelo sonho de transformar Rimorge numa cidade gloriosa."
+  ]
+ },
+ {
+  "id": 7,
+  "section": "human",
+  "icon": "data\\title\\human_008.dds",
+  "name": "Ernst",
+  "name_por": "Ernst",
+  "pages": [
+   "Admiral Agares' second-in-command, this sharp, young Romun officer has excellent leadership abilities.",
+   "While pursuing the Tres Mares, he gets sucked into the Great Vortex of Canaan."
+  ],
+  "pages_por": [
+   "Braco direito do Almirante Agares, este jovem e astuto oficial romuno e um lider excepcional.",
+   "Ao perseguir o Tres Mares, acaba sendo tragado pelo Grande Vortice de Canaan."
+  ]
+ },
+ {
+  "id": 8,
+  "section": "human",
+  "icon": "data\\title\\human_009.dds",
+  "name": "Geis",
+  "name_por": "Geis",
+  "pages": [
+   "A mercenary bearing a giant halberd, Geis crosses paths with Adol several times throughout his mission.",
+   "He lives by the motto: \"Don't stick your nose into other people's business.\""
+  ],
+  "pages_por": [
+   "Mercenario de alabarda gigante, Geis cruza o caminho de Adol varias vezes durante a jornada.",
+   "Ele vive pelo lema: \"Nao meta o nariz onde nao foi chamado.\""
+  ]
+ },
+ {
+  "id": 9,
+  "section": "human",
+  "icon": "data\\title\\human_010.dds",
+  "name": "Lloyd",
+  "name_por": "Lloyd",
+  "pages": [
+   "Baslam's right-hand man, Lloyd, is a shrewd intellectual type unlike his partner, Xaxon."
+  ],
+  "pages_por": [
+   "Braco direito de Baslam, Lloyd e do tipo intelectual e astuto, ao contrario do parceiro, Xaxon."
+  ]
+ },
+ {
+  "id": 10,
+  "section": "human",
+  "icon": "data\\title\\human_011.dds",
+  "name": "Xaxon",
+  "name_por": "Xaxon",
+  "pages": [
+   "Xaxon works with Lloyd to support Baslam. Unlike Lloyd, he prefers to use his muscles to settle arguments."
+  ],
+  "pages_por": [
+   "Xaxon ajuda Baslam junto com Lloyd. Mas, ao contrario dele, prefere resolver discussoes no muque."
+  ]
+ },
+ {
+  "id": 11,
+  "section": "human",
+  "icon": "data\\title\\human_012.dds",
+  "name": "Maple",
+  "name_por": "Maple",
+  "pages": [
+   "A maid at Baslam manor, Maple may be a bit slow, but she prepares the most mouth-watering dishes."
+  ],
+  "pages_por": [
+   "Criada da mansao de Baslam, Maple pode ser meio lenta, mas prepara os pratos mais deliciosos."
+  ]
+ },
+ {
+  "id": 12,
+  "section": "human",
+  "icon": "data\\title\\human_013.dds",
+  "name": "Rose",
+  "name_por": "Rose",
+  "pages": [
+   "The shopkeeper in Rimorge who sells many weapons and armor, Rose hopes to establish her own trading company."
+  ],
+  "pages_por": [
+   "Lojista de Rimorge que vende armas e armaduras, Rose sonha em abrir sua propria companhia comercial."
+  ]
+ },
+ {
+  "id": 13,
+  "section": "human",
+  "icon": "data\\title\\human_014.dds",
+  "name": "Emilio",
+  "name_por": "Emilio",
+  "pages": [
+   "This eccentric livestock manager of Baslam Trading Company adores women and flirts at every opportunity."
+  ],
+  "pages_por": [
+   "Excentrico cuidador dos animais da Companhia Comercial Baslam, adora mulheres e flerta sempre que pode."
+  ]
+ },
+ {
+  "id": 14,
+  "section": "human",
+  "icon": "data\\title\\human_015.dds",
+  "name": "Cloa",
+  "name_por": "Cloa",
+  "pages": [
+   "Although kicked out of his sister's store, Cloa has since set up his own shop right in front of Rose's."
+  ],
+  "pages_por": [
+   "Expulso da loja da irma, Cloa montou sua propria loja bem em frente a de Rose."
+  ]
+ },
+ {
+  "id": 15,
+  "section": "human",
+  "icon": "data\\title\\human_016.dds",
+  "name": "Kevin",
+  "name_por": "Kevin",
+  "pages": [
+   "Though originally from Rimorge, Kevin now runs a shop in the Rehdan town."
+  ],
+  "pages_por": [
+   "Embora seja de Rimorge, Kevin agora cuida de uma loja na vila dos Rehda."
+  ]
+ },
+ {
+  "id": 16,
+  "section": "human",
+  "icon": "data\\title\\human_017.dds",
+  "name": "Isaac",
+  "name_por": "Isaac",
+  "pages": [
+   "Once a worker on an aristocrat's ship, Isaac now works as a barkeeper at Rimorge tavern."
+  ],
+  "pages_por": [
+   "Ex-tripulante do navio de um aristocrata, Isaac hoje trabalha no balcao da taverna de Rimorge."
+  ]
+ },
+ {
+  "id": 17,
+  "section": "human",
+  "icon": "data\\title\\human_018.dds",
+  "name": "Tise",
+  "name_por": "Tise",
+  "pages": [
+   "She was found along the shores as a baby and taken in by Isaac. Now she works with him at Rimorge tavern."
+  ],
+  "pages_por": [
+   "Achada ainda bebe na praia, foi acolhida por Isaac. Hoje trabalha com ele na taverna de Rimorge."
+  ]
+ },
+ {
+  "id": 18,
+  "section": "human",
+  "icon": "data\\title\\human_019.dds",
+  "name": "Calman",
+  "name_por": "Calman",
+  "pages": [
+   "This merchant from Europa was double-crossed by his partners, who threw him off his own ship.",
+   "He eventually washed up in Rimorge, where he now mopes around, bitter and depressed."
+  ],
+  "pages_por": [
+   "Este mercador de Europa foi traido pelos socios, que o jogaram para fora de seu proprio navio.",
+   "Acabou indo parar em Rimorge, onde hoje vive pelos cantos, amargurado e deprimido."
+  ]
+ },
+ {
+  "id": 19,
+  "section": "human",
+  "icon": "data\\title\\human_020.dds",
+  "name": "August",
+  "name_por": "August",
+  "pages": [
+   "A lute-playing minstrel who performs in the tavern. He has a fond interest in the ancient scriptures."
+  ],
+  "pages_por": [
+   "Menestrel que toca alaude na taverna. Tem grande interesse pelas antigas escrituras."
+  ]
+ },
+ {
+  "id": 20,
+  "section": "human",
+  "icon": "data\\title\\human_021.dds",
+  "name": "Gazel",
+  "name_por": "Gazel",
+  "pages": [
+   "Gazel lives near the edge of town with his family. He seems to be troubled by some secret past..."
+  ],
+  "pages_por": [
+   "Gazel mora com a familia perto da saida da cidade. Parece atormentado por algum segredo do passado..."
+  ]
+ },
+ {
+  "id": 21,
+  "section": "human",
+  "icon": "data\\title\\human_022.dds",
+  "name": "Sophia",
+  "name_por": "Sophia",
+  "pages": [
+   "The daughter of a powerful Romun noble, she betrayed her parents' wishes and eloped with Gazel."
+  ],
+  "pages_por": [
+   "Filha de um poderoso nobre romuno, ela contrariou a vontade dos pais e fugiu com Gazel."
+  ]
+ },
+ {
+  "id": 22,
+  "section": "human",
+  "icon": "data\\title\\human_023.dds",
+  "name": "Sia",
+  "name_por": "Sia",
+  "pages": [
+   "The daughter of Gazel and Sophia, she still has no knowledge of her parents' controversial past."
+  ],
+  "pages_por": [
+   "Filha de Gazel e Sophia, ela ainda nao sabe nada do passado polemico dos pais."
+  ]
+ },
+ {
+  "id": 23,
+  "section": "human",
+  "icon": "data\\title\\human_024.dds",
+  "name": "Thoud",
+  "name_por": "Thoud",
+  "pages": [
+   "A former fisherman who is now retired, Thoud is good-natured, but a bit rough around the edges."
+  ],
+  "pages_por": [
+   "Pescador aposentado, Thoud tem bom coracao, mas e meio bruto no jeito de ser."
+  ]
+ },
+ {
+  "id": 24,
+  "section": "human",
+  "icon": "data\\title\\human_025.dds",
+  "name": "Anice",
+  "name_por": "Anice",
+  "pages": [
+   "Thoud's granddaughter, Anice, now runs the family fishing business. She's always a pleasure to be around."
+  ],
+  "pages_por": [
+   "Neta de Thoud, Anice agora cuida da pesca da familia. E sempre um prazer estar perto dela."
+  ]
+ },
+ {
+  "id": 25,
+  "section": "human",
+  "icon": "data\\title\\human_026.dds",
+  "name": "Jedo",
+  "name_por": "Jedo",
+  "pages": [
+   "The helmsman aboard the Tres Mares, Jedo is a very reliable worker. He is now second-in-command."
+  ],
+  "pages_por": [
+   "Timoneiro do Tres Mares, Jedo e muito confiavel. Agora ele e o segundo no comando."
+  ]
+ },
+ {
+  "id": 26,
+  "section": "human",
+  "icon": "data\\title\\human_027.dds",
+  "name": "Camara",
+  "name_por": "Camara",
+  "pages": [
+   "Camara mans a cannon aboard the Tres Mares. He has a big mouth that often gets him in trouble."
+  ],
+  "pages_por": [
+   "Camara cuida de um canhao no Tres Mares. Tem a lingua solta, o que vive lhe trazendo problemas."
+  ]
+ },
+ {
+  "id": 27,
+  "section": "human",
+  "icon": "data\\title\\human_028.dds",
+  "name": "Mikhail",
+  "name_por": "Mikhail",
+  "pages": [
+   "Mikhail mans a cannon aboard the Tres Mares. He admires Ladoc and hopes to be just like him someday."
+  ],
+  "pages_por": [
+   "Mikhail cuida de um canhao no Tres Mares. Admira Ladoc e sonha em um dia ser igual a ele."
+  ]
+ },
+ {
+  "id": 28,
+  "section": "human",
+  "icon": "data\\title\\human_029.dds",
+  "name": "Guen",
+  "name_por": "Guen",
+  "pages": [
+   "A highly respected veteran seafarer, Guen is consulted by the crew for his vast knowledge of the seas."
+  ],
+  "pages_por": [
+   "Marujo veterano muito respeitado, Guen e consultado pela tripulacao por conhecer bem os mares."
+  ]
+ },
+ {
+  "id": 29,
+  "section": "human",
+  "icon": "data\\title\\human_030.dds",
+  "name": "Nies",
+  "name_por": "Nies",
+  "pages": [
+   "This supplies manager for the Tres Mares has a good eye for detail, but is easily distracted."
+  ],
+  "pages_por": [
+   "Encarregado dos suprimentos do Tres Mares, tem olho bom para detalhes, mas se distrai a toa."
+  ]
+ },
+ {
+  "id": 30,
+  "section": "human",
+  "icon": "data\\title\\human_031.dds",
+  "name": "Romun Soldier",
+  "name_por": "Soldado Romuno",
+  "pages": [
+   "The ruthless soldiers from the Romun Empire have come to the Canaan Islands to enslave the populace."
+  ],
+  "pages_por": [
+   "Os soldados impiedosos do Imperio Romuno vieram as Ilhas de Canaan para escravizar o povo."
+  ]
+ },
+ {
+  "id": 31,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_001.dds",
+  "name": "Olha",
+  "name_por": "Olha",
+  "pages": [
+   "The priestess of the Rehda Tribe, Olha is blessed with beautiful, fair skin.",
+   "She is a master of the bow and highly respected by her people."
+  ],
+  "pages_por": [
+   "Sacerdotisa da Tribo Rehda, Olha e abencoada com uma pele clara e bela.",
+   "E mestra no arco e muito respeitada por seu povo."
+  ]
+ },
+ {
+  "id": 32,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_002.dds",
+  "name": "Isha",
+  "name_por": "Isha",
+  "pages": [
+   "Olha's younger sister, Isha, can be a bit shy at first. She helped rescue Adol after he washed ashore.",
+   "She also has the power to envision the future."
+  ],
+  "pages_por": [
+   "Irma mais nova de Olha, Isha e meio timida no inicio. Ajudou a salvar Adol quando ele chegou a praia.",
+   "Ela tambem tem o poder de prever o futuro."
+  ]
+ },
+ {
+  "id": 33,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_003.dds",
+  "name": "Ur",
+  "name_por": "Ur",
+  "pages": [
+   "Ord's only son, Ur, nearly died from an Eresian virus, but was luckily saved by Raba.",
+   "He now studies under Raba as his apprentice and lives with him in Rimorge."
+  ],
+  "pages_por": [
+   "Filho unico de Ord, Ur quase morreu de um virus eresiano, mas por sorte foi salvo por Raba.",
+   "Hoje e aprendiz de Raba e mora com ele em Rimorge."
+  ]
+ },
+ {
+  "id": 34,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_004.dds",
+  "name": "Ord",
+  "name_por": "Ord",
+  "pages": [
+   "The Rehdan chief, Ord, is actually the uncle of Olha and Isha. He is a proud, strong warrior,",
+   "and also quite intelligent."
+  ],
+  "pages_por": [
+   "Chefe dos Rehda, Ord e na verdade tio de Olha e Isha. E um guerreiro forte e orgulhoso,",
+   "alem de bastante inteligente."
+  ]
+ },
+ {
+  "id": 35,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_005.dds",
+  "name": "Leav",
+  "name_por": "Leav",
+  "pages": [
+   "An expert at tempering weapons made of Emelas, Leav owns her own Emelas shop.",
+   "Leav has the distinct reputation of being half-Eresian, half-Rehdan."
+  ],
+  "pages_por": [
+   "Especialista em temperar armas de Emelas, Leav tem sua propria loja de Emelas.",
+   "Leav tem a fama peculiar de ser metade eresiana, metade Rehda."
+  ]
+ },
+ {
+  "id": 36,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_006.dds",
+  "name": "Largo",
+  "name_por": "Largo",
+  "pages": [
+   "The young Rehdan warrior that guards the entrance to Rehda Village. He is a quiet one, but has great potential."
+  ],
+  "pages_por": [
+   "Jovem guerreiro Rehda que guarda a entrada da Vila Rehda. E calado, mas tem grande potencial."
+  ]
+ },
+ {
+  "id": 37,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_007.dds",
+  "name": "Milca",
+  "name_por": "Milca",
+  "pages": [
+   "Quval's sister and Rakche's twin sister, she is a bit reserved, compared to her sister."
+  ],
+  "pages_por": [
+   "Irma de Quval e gemea de Rakche, ela e bem mais reservada que a irma."
+  ]
+ },
+ {
+  "id": 38,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_008.dds",
+  "name": "Rakche",
+  "name_por": "Rakche",
+  "pages": [
+   "Quval's sister and Milca's twin sister, she is very enthusiastic and has a fond interest in Eresians."
+  ],
+  "pages_por": [
+   "Irma de Quval e gemea de Milca, ela e muito animada e tem grande interesse pelos eresianos."
+  ]
+ },
+ {
+  "id": 39,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_009.dds",
+  "name": "Toksa",
+  "name_por": "Toksa",
+  "pages": [
+   "A fisherman of the Rehda Tribe, Toksa is great at fishing... as well as drinking."
+  ],
+  "pages_por": [
+   "Pescador da Tribo Rehda, Toksa e otimo de pesca... e de copo tambem."
+  ]
+ },
+ {
+  "id": 40,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_010.dds",
+  "name": "Sola",
+  "name_por": "Sola",
+  "pages": [
+   "Head cook of the Rehda Tribe, Sola is warm-hearted and well-liked -- not to mention a wonderful cook."
+  ],
+  "pages_por": [
+   "Cozinheira-chefe da Tribo Rehda, Sola e calorosa e querida por todos -- e cozinha muito bem."
+  ]
+ },
+ {
+  "id": 41,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_011.dds",
+  "name": "Silva",
+  "name_por": "Silva",
+  "pages": [
+   "Highly skilled with a blade, Silva's temper can make him unreasonable. He despises and distrusts Eresians."
+  ],
+  "pages_por": [
+   "Habil com a lamina, Silva e esquentado a ponto de perder a razao. Despreza e desconfia dos eresianos."
+  ]
+ },
+ {
+  "id": 42,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_012.dds",
+  "name": "Quval",
+  "name_por": "Quval",
+  "pages": [
+   "Well-respected and highly dependable, this Rehdan warrior is expected to be the next chief of the Rehda Tribe."
+  ],
+  "pages_por": [
+   "Respeitado e muito confiavel, este guerreiro Rehda deve ser o proximo chefe da tribo."
+  ]
+ },
+ {
+  "id": 43,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_013.dds",
+  "name": "Wenuca",
+  "name_por": "Wenuca",
+  "pages": [
+   "Wenuca is Seblo's wife. She helps out her husband when she can, but tends to be very accident-prone."
+  ],
+  "pages_por": [
+   "Wenuca e a esposa de Seblo. Ajuda o marido como pode, mas e muito desastrada."
+  ]
+ },
+ {
+  "id": 44,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_014.dds",
+  "name": "Noi",
+  "name_por": "Noi",
+  "pages": [
+   "Sola's daughter, Noi, is a kind young girl who enjoys helping her mother around the house."
+  ],
+  "pages_por": [
+   "Filha de Sola, Noi e uma menina gentil que gosta de ajudar a mae nas tarefas de casa."
+  ]
+ },
+ {
+  "id": 45,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_015.dds",
+  "name": "Attli",
+  "name_por": "Attli",
+  "pages": [
+   "The eldest Rehdan and matron of the weavers. Attli can be quite stubborn, so it's best not to argue with her."
+  ],
+  "pages_por": [
+   "A Rehda mais velha e matriarca das tecelas. Attli e bem teimosa, entao e melhor nao discutir com ela."
+  ]
+ },
+ {
+  "id": 46,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_016.dds",
+  "name": "Mannan",
+  "name_por": "Mannan",
+  "pages": [
+   "Though still very capable, Mannan retired from the pottery business and left it in Seblo's hands."
+  ],
+  "pages_por": [
+   "Ainda muito habilidoso, Mannan se aposentou da ceramica e deixou o negocio nas maos de Seblo."
+  ]
+ },
+ {
+  "id": 47,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_017.dds",
+  "name": "Agu",
+  "name_por": "Agu",
+  "pages": [
+   "Once respected by Ord, he left the Village to live in Rimorge. He seems to prefer the Eresians' way of life."
+  ],
+  "pages_por": [
+   "Antes respeitado por Ord, deixou a Vila para morar em Rimorge. Parece preferir o modo de vida eresiano."
+  ]
+ },
+ {
+  "id": 48,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_018.dds",
+  "name": "Lolo",
+  "name_por": "Lolo",
+  "pages": [
+   "The youngest of Seblo's and Wenuca's children, Lolo greatly admires his father."
+  ],
+  "pages_por": [
+   "Filho cacula de Seblo e Wenuca, Lolo admira muito o pai."
+  ]
+ },
+ {
+  "id": 49,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_019.dds",
+  "name": "Ryug",
+  "name_por": "Ryug",
+  "pages": [
+   "Marve's younger brother, Ryug, hates to do chores, but loves to play hide and seek with his sister."
+  ],
+  "pages_por": [
+   "Irmao mais novo de Marve, Ryug odeia fazer tarefas, mas adora brincar de esconde-esconde com a irma."
+  ]
+ },
+ {
+  "id": 50,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_020.dds",
+  "name": "Marve",
+  "name_por": "Marve",
+  "pages": [
+   "The daughter of Toksa and Nahrya, she often searches for her brother, Ryug, but never seems to find him..."
+  ],
+  "pages_por": [
+   "Filha de Toksa e Nahrya, ela vive procurando o irmao, Ryug, mas nunca consegue acha-lo..."
+  ]
+ },
+ {
+  "id": 51,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_021.dds",
+  "name": "Nahrya",
+  "name_por": "Nahrya",
+  "pages": [
+   "Toksa's loving wife, Nahrya, does her best to take care of her two kids and her drunk husband."
+  ],
+  "pages_por": [
+   "Esposa amorosa de Toksa, Nahrya faz o possivel para cuidar dos dois filhos e do marido beberrao."
+  ]
+ },
+ {
+  "id": 52,
+  "section": "rehda",
+  "icon": "data\\title\\rehda_022.dds",
+  "name": "Seblo",
+  "name_por": "Seblo",
+  "pages": [
+   "Seblo runs the craftsman shop and works very diligently. Seblo hopes to be just as good as Mannan someday."
+  ],
+  "pages_por": [
+   "Seblo cuida da oficina de artesanato e trabalha com afinco. Sonha em ser tao bom quanto Mannan."
+  ]
+ },
+ {
+  "id": 53,
+  "section": "monster",
+  "icon": "data\\title\\mons_056.dds",
+  "name": "Geis",
+  "name_por": "Geis",
+  "pages": [
+   "He is armed with a long halberd and black armor. The story will continue even if he is not defeated."
+  ],
+  "pages_por": [
+   "Armado com uma longa alabarda e armadura negra. A historia segue mesmo que ele nao seja derrotado."
+  ]
+ },
+ {
+  "id": 54,
+  "section": "monster",
+  "icon": "data\\title\\mons_053.dds",
+  "name": "Gaposdhala",
+  "name_por": "Gaposdhala",
+  "pages": [
+   "Found in the NW of Quatera Woods. While Gaposdhala attacks, it spits out other plant monsters."
+  ],
+  "pages_por": [
+   "Vive a noroeste dos Bosques de Quatera. Enquanto ataca, Gaposdhala cospe outros monstros-planta."
+  ]
+ },
+ {
+  "id": 55,
+  "section": "monster",
+  "icon": "data\\title\\mons_024.dds",
+  "name": "Piana-Pius",
+  "name_por": "Piana-Pius",
+  "pages": [
+   "Difficult to strike while flying around, attack Piana-Pius when it is close to the ground."
+  ],
+  "pages_por": [
+   "Dificil de acertar enquanto voa. Ataque Piana-Pius quando ele estiver perto do chao."
+  ]
+ },
+ {
+  "id": 56,
+  "section": "monster",
+  "icon": "data\\title\\mons_036.dds",
+  "name": "Noodollon",
+  "name_por": "Noodollon",
+  "pages": [
+   "A giant Dollon slime found in the depths of Limewater Cave. Maelstrom magic is effective against him."
+  ],
+  "pages_por": [
+   "Um Dollon gigante das profundezas da Caverna Limewater. A magia Maelstrom e eficaz contra ele."
+  ]
+ },
+ {
+  "id": 57,
+  "section": "monster",
+  "icon": "data\\title\\mons_064.dds",
+  "name": "Gaposasura",
+  "name_por": "Gaposasura",
+  "pages": [
+   "A powered up form of Gaposdhala. Its attacks have not changed, but they are much stronger."
+  ],
+  "pages_por": [
+   "Forma fortalecida de Gaposdhala. Os ataques continuam iguais, mas muito mais fortes."
+  ]
+ },
+ {
+  "id": 58,
+  "section": "monster",
+  "icon": "data\\title\\mons_041.dds",
+  "name": "Kishcarin",
+  "name_por": "Kishcarin",
+  "pages": [
+   "Gate keeper to the Ruined City of Kishgal. Adol must defeat it to progress."
+  ],
+  "pages_por": [
+   "Guardiao do portao da Cidade em Ruinas de Kishgal. Adol precisa derrota-lo para avancar."
+  ]
+ },
+ {
+  "id": 59,
+  "section": "monster",
+  "icon": "data\\title\\mons_062.dds",
+  "name": "Deadollon",
+  "name_por": "Deadollon",
+  "pages": [
+   "A powered up form of Noodollon. It appears near the end of the game."
+  ],
+  "pages_por": [
+   "Forma fortalecida de Noodollon. Aparece perto do fim do jogo."
+  ]
+ },
+ {
+  "id": 60,
+  "section": "monster",
+  "icon": "data\\title\\mons_063.dds",
+  "name": "Piana-Pullus",
+  "name_por": "Piana-Pullus",
+  "pages": [
+   "A powered up form of Piana-Pius that also lives in the Canaan Plains. Attain a high level before fighting it."
+  ],
+  "pages_por": [
+   "Forma fortalecida de Piana-Pius que tambem vive nas Planicies de Canaan. Suba bem de nivel antes."
+  ]
+ },
+ {
+  "id": 61,
+  "section": "monster",
+  "icon": "data\\title\\mons_040.dds",
+  "name": "Majunun",
+  "name_por": "Majunun",
+  "pages": [
+   "Guards a precious item deep in the Ruins of Amnesia. Possibly the strongest monster in the game.",
+   "Regular techniques will probably not be enough against this cute but terrifying beast."
+  ],
+  "pages_por": [
+   "Guarda um item precioso no fundo das Ruinas da Amnesia. Talvez o monstro mais forte do jogo.",
+   "Tecnicas comuns provavelmente nao bastam contra esta fera fofa, mas aterrorizante."
+  ]
+ },
+ {
+  "id": 62,
+  "section": "monster",
+  "icon": "data\\title\\boss_001.dds",
+  "name": "Demi-Galba",
+  "name_por": "Demi-Galba",
+  "pages": [
+   "Known as the \"Wandering Calamity\", attacking its hands will not inflict any damage."
+  ],
+  "pages_por": [
+   "Conhecido como a \"Calamidade Errante\". Atacar as maos dele nao causa dano algum."
+  ]
+ },
+ {
+  "id": 63,
+  "section": "monster",
+  "icon": "data\\title\\boss_002.dds",
+  "name": "Zonplas",
+  "name_por": "Zonplas",
+  "pages": [
+   "Zonplas stays in the air except when striking at the ground. Use jump attacks or Maelstrom magic."
+  ],
+  "pages_por": [
+   "Zonplas fica no ar, exceto quando golpeia o chao. Use ataques no pulo ou a magia Maelstrom."
+  ]
+ },
+ {
+  "id": 64,
+  "section": "monster",
+  "icon": "data\\title\\boss_003.dds",
+  "name": "Ud-Meiyu",
+  "name_por": "Ud-Meiyu",
+  "pages": [
+   "Ud-Meiyu is hard to attack while it jumps around. Attack immediately after it lands or use Sword Magic."
+  ],
+  "pages_por": [
+   "Ud-Meiyu e dificil de acertar enquanto pula. Ataque logo apos ele pousar ou use Magia da Espada."
+  ]
+ },
+ {
+  "id": 65,
+  "section": "monster",
+  "icon": "data\\title\\boss_004.dds",
+  "name": "Orjugan",
+  "name_por": "Orjugan",
+  "pages": [
+   "Set on the walls of Limewater Cave, strike the Miggun to send them back at Orjugan's face."
+  ],
+  "pages_por": [
+   "Preso nas paredes da Caverna Limewater. Rebata os Miggun de volta na cara de Orjugan."
+  ]
+ },
+ {
+  "id": 66,
+  "section": "monster",
+  "icon": "data\\title\\boss_005.dds",
+  "name": "Lanaluna",
+  "name_por": "Lanaluna",
+  "pages": [
+   "Admiral Agares' giant pet toad. The tricky Lanaluna spits slippery slime and becomes invisible."
+  ],
+  "pages_por": [
+   "O sapo gigante do Almirante Agares. A ardilosa Lanaluna cospe gosma escorregadia e fica invisivel."
+  ]
+ },
+ {
+  "id": 67,
+  "section": "monster",
+  "icon": "data\\title\\boss_006.dds",
+  "name": "Galba-Roa",
+  "name_por": "Galba-Roa",
+  "pages": [
+   "Galba-Roa will regenerate after its first defeat, so be sure not to use up all your health items."
+  ],
+  "pages_por": [
+   "Galba-Roa se regenera apos a primeira derrota, entao nao gaste todos os itens de cura."
+  ]
+ },
+ {
+  "id": 68,
+  "section": "monster",
+  "icon": "data\\title\\boss_007.dds",
+  "name": "Galba-Roa (Second Form)",
+  "name_por": "Galba-Roa (Segunda Forma)",
+  "pages": [
+   "Adol will only gain experience after defeating Galba-Roa's second form, so the first has no points listed."
+  ],
+  "pages_por": [
+   "Adol so ganha experiencia ao derrotar a segunda forma de Galba-Roa, por isso a primeira nao da pontos."
+  ]
+ },
+ {
+  "id": 69,
+  "section": "monster",
+  "icon": "data\\title\\mons_060.dds",
+  "name": "Jue",
+  "name_por": "Jue",
+  "pages": [
+   "A fairy that Adol meets at the summit of Grana-Vallis Mountain. She is a homunculus created by Ernst."
+  ],
+  "pages_por": [
+   "Fada que Adol encontra no topo da Montanha Grana-Vallis. Ela e um homunculo criado por Ernst."
+  ]
+ },
+ {
+  "id": 70,
+  "section": "monster",
+  "icon": "data\\title\\mons_059.dds",
+  "name": "Sera",
+  "name_por": "Sera",
+  "pages": [
+   "Like Jue, Sera is also a homunculus. Calm and collected, she is thought of as the leader of the three."
+  ],
+  "pages_por": [
+   "Assim como Jue, Sera tambem e um homunculo. Calma e serena, e vista como a lider das tres."
+  ]
+ },
+ {
+  "id": 71,
+  "section": "monster",
+  "icon": "data\\title\\mons_061.dds",
+  "name": "Xisa",
+  "name_por": "Xisa",
+  "pages": [
+   "Xisa is a snobbish homunculus. Like the three Emelas swords, she can open the lock to Napishtim."
+  ],
+  "pages_por": [
+   "Xisa e um homunculo esnobe. Assim como as tres espadas de Emelas, ela abre a tranca de Napishtim."
+  ]
+ },
+ {
+  "id": 72,
+  "section": "monster",
+  "icon": "data\\title\\mons_055.dds",
+  "name": "Ernst",
+  "name_por": "Ernst",
+  "pages": [
+   "The three homunculi support Ernst. They are invulnerable to attacks that share their attribute.",
+   "Even if their hit points are reduced to zero, they will eventually regenerate."
+  ],
+  "pages_por": [
+   "Os tres homunculos apoiam Ernst. Eles sao imunes a ataques do mesmo atributo que o deles.",
+   "Mesmo que seus pontos de vida cheguem a zero, eles acabam se regenerando."
+  ]
+ },
+ {
+  "id": 73,
+  "section": "monster",
+  "icon": "data\\title\\boss_008.dds",
+  "name": "Napishtim",
+  "name_por": "Napishtim",
+  "pages": [
+   "The enormous black Emelas ark created by the great Alma. Napishtim controls the weather and the ocean.",
+   "Fighting this machine comes in two stages. In the first stage, the crystals can only be destroyed by",
+   "attacking them with the Emelas sword of the corresponding attribute."
+  ],
+  "pages_por": [
+   "A enorme arca negra de Emelas criada pela grande Alma. Napishtim controla o clima e o oceano.",
+   "A luta contra esta maquina tem duas etapas. Na primeira, os cristais so podem ser destruidos",
+   "com a espada de Emelas do atributo correspondente."
+  ]
+ },
+ {
+  "id": 74,
+  "section": "monster",
+  "icon": "data\\title\\mons_001.dds",
+  "name": "Quia",
+  "name_por": "Quia",
+  "pages": [
+   "Quia is a small furry monster. It is the weakest of the weak."
+  ],
+  "pages_por": [
+   "Quia e um pequeno monstro peludo. E o mais fraco dos fracos."
+  ]
+ },
+ {
+  "id": 75,
+  "section": "monster",
+  "icon": "data\\title\\mons_012.dds",
+  "name": "Refua",
+  "name_por": "Refua",
+  "pages": [
+   "Refua cannot move. It will spray a poisonous mist if Adol gets close. Special Attack: Poison"
+  ],
+  "pages_por": [
+   "Refua nao se move. Solta uma nevoa venenosa se Adol chegar perto.\nAtaque Especial: Veneno"
+  ]
+ },
+ {
+  "id": 76,
+  "section": "monster",
+  "icon": "data\\title\\mons_007.dds",
+  "name": "Adamus",
+  "name_por": "Adamus",
+  "pages": [
+   "Adamus flies around, but will make a bee-line toward Adol if he is in range."
+  ],
+  "pages_por": [
+   "Adamus voa por ai, mas parte direto para cima de Adol se ele estiver ao alcance."
+  ]
+ },
+ {
+  "id": 77,
+  "section": "monster",
+  "icon": "data\\title\\mons_028.dds",
+  "name": "Bholg",
+  "name_por": "Bholg",
+  "pages": [
+   "Bholgs are dropped by Setos. Adol will take a lot of damage if he gets stomped by the Bholg's hooves."
+  ],
+  "pages_por": [
+   "Os Bholgs sao trazidos pelos Setos. Adol sofre muito dano se for pisoteado pelos cascos do Bholg."
+  ]
+ },
+ {
+  "id": 78,
+  "section": "monster",
+  "icon": "data\\title\\mons_054.dds",
+  "name": "Gilcha",
+  "name_por": "Gilcha",
+  "pages": [
+   "Gilcha may be small, but its attack is strong. Perhaps a relative of the Ghargil?"
+  ],
+  "pages_por": [
+   "Gilcha pode ser pequeno, mas seu ataque e forte. Sera parente do Ghargil?"
+  ]
+ },
+ {
+  "id": 79,
+  "section": "monster",
+  "icon": "data\\title\\mons_008.dds",
+  "name": "Ceram",
+  "name_por": "Ceram",
+  "pages": [
+   "Watch out for Ceram's powerful claws as it lunges toward Adol."
+  ],
+  "pages_por": [
+   "Cuidado com as garras poderosas de Ceram quando ele avanca contra Adol."
+  ]
+ },
+ {
+  "id": 80,
+  "section": "monster",
+  "icon": "data\\title\\mons_015.dds",
+  "name": "Cedollon",
+  "name_por": "Cedollon",
+  "pages": [
+   "Cedollon is a strong enemy that can send projectiles from afar."
+  ],
+  "pages_por": [
+   "Cedollon e um inimigo forte que dispara projeteis de longe."
+  ]
+ },
+ {
+  "id": 81,
+  "section": "monster",
+  "icon": "data\\title\\mons_021.dds",
+  "name": "Pisckel",
+  "name_por": "Pisckel",
+  "pages": [
+   "Pisckel's charge attacks are scary, but don't necessarily aim at Adol. Special Attack: Poison"
+  ],
+  "pages_por": [
+   "As investidas de Pisckel assustam, mas nem sempre miram em Adol.\nAtaque Especial: Veneno"
+  ]
+ },
+ {
+  "id": 82,
+  "section": "monster",
+  "icon": "data\\title\\mons_004.dds",
+  "name": "Ulmto",
+  "name_por": "Ulmto",
+  "pages": [
+   "Look out, Ulmto will attack from above and steal Gold. Special Attack: Steal Gold"
+  ],
+  "pages_por": [
+   "Cuidado, Ulmto ataca de cima e rouba Ouro.\nAtaque Especial: Roubar Ouro"
+  ]
+ },
+ {
+  "id": 83,
+  "section": "monster",
+  "icon": "data\\title\\mons_019.dds",
+  "name": "Seto",
+  "name_por": "Seto",
+  "pages": [
+   "As long as Seto is around, it will bring an endless stream of Bholg."
+  ],
+  "pages_por": [
+   "Enquanto Seto estiver por perto, trara uma fila sem fim de Bholgs."
+  ]
+ },
+ {
+  "id": 84,
+  "section": "monster",
+  "icon": "data\\title\\mons_058.dds",
+  "name": "Ato",
+  "name_por": "Ato",
+  "pages": [
+   "This wicked monster strikes from above and steals precious Emel. Special Attack: Steals Emel."
+  ],
+  "pages_por": [
+   "Este monstro perverso ataca de cima e rouba o precioso Emel.\nAtaque Especial: Roubar Emel."
+  ]
+ },
+ {
+  "id": 85,
+  "section": "monster",
+  "icon": "data\\title\\mons_027.dds",
+  "name": "Bholdom",
+  "name_por": "Bholdom",
+  "pages": [
+   "Bholdom's charge attack will knock Adol back and hinder his movement. Special Attack: Slow"
+  ],
+  "pages_por": [
+   "A investida de Bholdom empurra Adol e atrapalha seus movimentos.\nAtaque Especial: Lentidao"
+  ]
+ },
+ {
+  "id": 86,
+  "section": "monster",
+  "icon": "data\\title\\mons_022.dds",
+  "name": "Pyrus",
+  "name_por": "Pyrus",
+  "pages": [
+   "Pyrus flies around and occasionally pursues Adol. If Adol gets hit by it, he will be knocked back."
+  ],
+  "pages_por": [
+   "Pyrus voa por ai e as vezes persegue Adol. Se Adol for atingido, sera empurrado para tras."
+  ]
+ },
+ {
+  "id": 87,
+  "section": "monster",
+  "icon": "data\\title\\mons_023.dds",
+  "name": "Bundaghar",
+  "name_por": "Bundaghar",
+  "pages": [
+   "Bundaghar cannot move on its own. It will explode if Adol comes near, but can be destroyed if struck quickly."
+  ],
+  "pages_por": [
+   "Bundaghar nao anda sozinho. Explode se Adol chegar perto, mas cai se for golpeado rapido."
+  ]
+ },
+ {
+  "id": 88,
+  "section": "monster",
+  "icon": "data\\title\\mons_025.dds",
+  "name": "Dumhead",
+  "name_por": "Dumhead",
+  "pages": [
+   "Dumhead brings an endless stream of Bundaghars from its nest and throws them with amazing accuracy."
+  ],
+  "pages_por": [
+   "Dumhead tira Bundaghars sem parar do ninho e os arremessa com uma precisao incrivel."
+  ]
+ },
+ {
+  "id": 89,
+  "section": "monster",
+  "icon": "data\\title\\mons_026.dds",
+  "name": "Klimsaw",
+  "name_por": "Klimsaw",
+  "pages": [
+   "Klimsaw throws razor sharp disks. It cannot be hurt while its disks rest on its head."
+  ],
+  "pages_por": [
+   "Klimsaw arremessa discos afiados. Nao pode ser ferido enquanto os discos estao em sua cabeca."
+  ]
+ },
+ {
+  "id": 90,
+  "section": "monster",
+  "icon": "data\\title\\mons_010.dds",
+  "name": "Dormen",
+  "name_por": "Dormen",
+  "pages": [
+   "Dormen sneaks up on its prey under the ground. It can only be hurt with downward strikes."
+  ],
+  "pages_por": [
+   "Dormen se aproxima da presa por baixo da terra. So pode ser ferido com golpes para baixo."
+  ]
+ },
+ {
+  "id": 91,
+  "section": "monster",
+  "icon": "data\\title\\mons_044.dds",
+  "name": "Albholg",
+  "name_por": "Albholg",
+  "pages": [
+   "Albholg is part of the Bholg family of monsters. Its charging attack will knock Adol back."
+  ],
+  "pages_por": [
+   "Albholg faz parte da familia de monstros Bholg. Sua investida empurra Adol para tras."
+  ]
+ },
+ {
+  "id": 92,
+  "section": "monster",
+  "icon": "data\\title\\mons_002.dds",
+  "name": "Gadoc",
+  "name_por": "Gadoc",
+  "pages": [
+   "Gadoc hops around like a spring making it hard to hit. Use Sword Magic attacks to hit the target."
+  ],
+  "pages_por": [
+   "Gadoc pula feito uma mola e e dificil de acertar. Use a Magia da Espada para atingi-lo."
+  ]
+ },
+ {
+  "id": 93,
+  "section": "monster",
+  "icon": "data\\title\\mons_005.dds",
+  "name": "Zenus",
+  "name_por": "Zenus",
+  "pages": [
+   "Zenus is a stationary beam firing device. Jump over the beam or Adol will be knocked back."
+  ],
+  "pages_por": [
+   "Zenus e um dispositivo fixo que dispara raios. Pule o raio ou Adol sera empurrado para tras."
+  ]
+ },
+ {
+  "id": 94,
+  "section": "monster",
+  "icon": "data\\title\\mons_016.dds",
+  "name": "Klimfe",
+  "name_por": "Klimfe",
+  "pages": [
+   "Klimfe attacks by spinning and swinging its long vines."
+  ],
+  "pages_por": [
+   "Klimfe ataca girando e balancando suas longas vinhas."
+  ]
+ },
+ {
+  "id": 95,
+  "section": "monster",
+  "icon": "data\\title\\mons_009.dds",
+  "name": "Sarion",
+  "name_por": "Sarion",
+  "pages": [
+   "Sarion is a murder machine and will aggressively chase Adol. Its sickle is quite strong."
+  ],
+  "pages_por": [
+   "Sarion e uma maquina mortifera que persegue Adol sem tregua. Sua foice e bem forte."
+  ]
+ },
+ {
+  "id": 96,
+  "section": "monster",
+  "icon": "data\\title\\mons_006.dds",
+  "name": "Gila",
+  "name_por": "Gila",
+  "pages": [
+   "Gila fires fireballs from afar. Chasing them can be difficult since they float above the ground."
+  ],
+  "pages_por": [
+   "Gila dispara bolas de fogo de longe. Persegui-los e dificil, pois flutuam acima do chao."
+  ]
+ },
+ {
+  "id": 97,
+  "section": "monster",
+  "icon": "data\\title\\mons_017.dds",
+  "name": "Gaetoil",
+  "name_por": "Gaetoil",
+  "pages": [
+   "The Gaetoil have tough defense. Sword Skills and Magic are best at cracking their defensive shell."
+  ],
+  "pages_por": [
+   "Os Gaetoil tem defesa alta. Habilidades e Magia da Espada sao o melhor para quebrar sua carapaca."
+  ]
+ },
+ {
+  "id": 98,
+  "section": "monster",
+  "icon": "data\\title\\mons_030.dds",
+  "name": "Zecross",
+  "name_por": "Zecross",
+  "pages": [
+   "Zecross launches two energy rings. The returning rings cause damage, so be careful."
+  ],
+  "pages_por": [
+   "Zecross lanca dois aneis de energia. Os aneis causam dano ao voltar, entao tome cuidado."
+  ]
+ },
+ {
+  "id": 99,
+  "section": "monster",
+  "icon": "data\\title\\mons_050.dds",
+  "name": "Viddun",
+  "name_por": "Viddun",
+  "pages": [
+   "Viddun only appears in one special room protecting a rare treasure."
+  ],
+  "pages_por": [
+   "Viddun so aparece numa sala especial, protegendo um tesouro raro."
+  ]
+ },
+ {
+  "id": 100,
+  "section": "monster",
+  "icon": "data\\title\\mons_013.dds",
+  "name": "Bholgillum",
+  "name_por": "Bholgillum",
+  "pages": [
+   "Strongest member of the Bholg family. Its attack inflicts status effects. Special Attack: Confusion, Slow"
+  ],
+  "pages_por": [
+   "O membro mais forte da familia Bholg. Seu ataque causa efeitos de status.\nAtaque Especial: Confusao, Lentidao"
+  ]
+ },
+ {
+  "id": 101,
+  "section": "monster",
+  "icon": "data\\title\\mons_038.dds",
+  "name": "Yurefua",
+  "name_por": "Yurefua",
+  "pages": [
+   "A stronger version of Refua, it can inflict two status effects."
+  ],
+  "pages_por": [
+   "Versao mais forte do Refua, pode causar dois efeitos de status."
+  ]
+ },
+ {
+  "id": 102,
+  "section": "monster",
+  "icon": "data\\title\\mons_003.dds",
+  "name": "Zadrom",
+  "name_por": "Zadrom",
+  "pages": [
+   "Zadrom usually resides underwater. It jumps up and attacks those that get close."
+  ],
+  "pages_por": [
+   "Zadrom costuma ficar debaixo d'agua. Ele salta e ataca quem chega perto."
+  ]
+ },
+ {
+  "id": 103,
+  "section": "monster",
+  "icon": "data\\title\\mons_020.dds",
+  "name": "Sume",
+  "name_por": "Sume",
+  "pages": [
+   "Little monsters spit out by Nabood. They will flop toward Adol. Special Attack: Poison"
+  ],
+  "pages_por": [
+   "Monstrinhos cuspidos por Nabood. Eles vem se debatendo ate Adol.\nAtaque Especial: Veneno"
+  ]
+ },
+ {
+  "id": 104,
+  "section": "monster",
+  "icon": "data\\title\\mons_035.dds",
+  "name": "Green Dollon",
+  "name_por": "Dollon Verde",
+  "pages": [
+   "It is the weakest of all the Dollons. A basic monster. Special attack: Poison"
+  ],
+  "pages_por": [
+   "O mais fraco de todos os Dollons. Um monstro basico.\nAtaque especial: Veneno"
+  ]
+ },
+ {
+  "id": 105,
+  "section": "monster",
+  "icon": "data\\title\\mons_018.dds",
+  "name": "Nabood",
+  "name_por": "Nabood",
+  "pages": [
+   "Nabood runs away spitting Sume behind it."
+  ],
+  "pages_por": [
+   "Nabood foge cuspindo Sumes pelo caminho."
+  ]
+ },
+ {
+  "id": 106,
+  "section": "monster",
+  "icon": "data\\title\\mons_047.dds",
+  "name": "Blue Dollon",
+  "name_por": "Dollon Azul",
+  "pages": [
+   "This Dollon slows its victims down. Each Dollon has different abilities. Special attack: Slow"
+  ],
+  "pages_por": [
+   "Este Dollon deixa as vitimas lentas. Cada Dollon tem um poder diferente.\nAtaque especial: Lentidao"
+  ]
+ },
+ {
+  "id": 107,
+  "section": "monster",
+  "icon": "data\\title\\mons_049.dds",
+  "name": "Red Dollon",
+  "name_por": "Dollon Vermelho",
+  "pages": [
+   "The Red Dollon will confuse Adol with its attack. Special attack: Confusion"
+  ],
+  "pages_por": [
+   "O Dollon Vermelho confunde Adol com seu ataque.\nAtaque especial: Confusao"
+  ]
+ },
+ {
+  "id": 108,
+  "section": "monster",
+  "icon": "data\\title\\mons_051.dds",
+  "name": "Yellow Dollon",
+  "name_por": "Dollon Amarelo",
+  "pages": [
+   "This Dollon uses a curse attack. Do you have a status cure item? Special attack: Curse"
+  ],
+  "pages_por": [
+   "Este Dollon usa um ataque de maldicao. Voce tem um item de cura?\nAtaque especial: Maldicao"
+  ]
+ },
+ {
+  "id": 109,
+  "section": "monster",
+  "icon": "data\\title\\mons_039.dds",
+  "name": "Birandi",
+  "name_por": "Birandi",
+  "pages": [
+   "Birandi is a strong shadow monster. Use the Rainbow Fragment to see it's true form."
+  ],
+  "pages_por": [
+   "Birandi e um forte monstro das sombras. Use o Fragmento de Arco-iris para ver sua forma verdadeira."
+  ]
+ },
+ {
+  "id": 110,
+  "section": "monster",
+  "icon": "data\\title\\mons_034.dds",
+  "name": "Nirva",
+  "name_por": "Nirva",
+  "pages": [
+   "Adol cannot hurt the Nirva unless he equips the Bell of Silence."
+  ],
+  "pages_por": [
+   "Adol so consegue ferir os Nirva se equipar o Sino do Silencio."
+  ]
+ },
+ {
+  "id": 111,
+  "section": "monster",
+  "icon": "data\\title\\mons_052.dds",
+  "name": "Black Dollon",
+  "name_por": "Dollon Negro",
+  "pages": [
+   "Its attack affects all four statuses. It is the strongest of the Dollon. Special attacks: All Status."
+  ],
+  "pages_por": [
+   "Seu ataque causa os quatro efeitos de status. E o mais forte dos Dollons.\nAtaques especiais: Todos."
+  ]
+ },
+ {
+  "id": 112,
+  "section": "monster",
+  "icon": "data\\title\\mons_048.dds",
+  "name": "White Dollon",
+  "name_por": "Dollon Branco",
+  "pages": [
+   "The White Dollon has no special powers, but it is one tough Dollon."
+  ],
+  "pages_por": [
+   "O Dollon Branco nao tem poderes especiais, mas e um Dollon bem resistente."
+  ]
+ },
+ {
+  "id": 113,
+  "section": "monster",
+  "icon": "data\\title\\mons_011.dds",
+  "name": "Ghargil",
+  "name_por": "Ghargil",
+  "pages": [
+   "Ghargil has high attack strength. Be sure not to get surrounded by a horde of these bug monsters."
+  ],
+  "pages_por": [
+   "Ghargil tem ataque alto. Cuidado para nao ser cercado por um bando desses monstros-inseto."
+  ]
+ },
+ {
+  "id": 114,
+  "section": "monster",
+  "icon": "data\\title\\mons_033.dds",
+  "name": "Birandi (Mimic)",
+  "name_por": "Birandi (Imitacao)",
+  "pages": [
+   "The mimicking form of Birandi. This form is stronger than its true self."
+  ],
+  "pages_por": [
+   "A forma imitadora de Birandi. Esta forma e mais forte que a sua forma verdadeira."
+  ]
+ },
+ {
+  "id": 115,
+  "section": "monster",
+  "icon": "data\\title\\mons_037.dds",
+  "name": "Volberra",
+  "name_por": "Volberra",
+  "pages": [
+   "Volberra only lives in the Cave Lake at the back of Limewater Cave."
+  ],
+  "pages_por": [
+   "Volberra so vive no Lago da Caverna, no fundo da Caverna Limewater."
+  ]
+ },
+ {
+  "id": 116,
+  "section": "monster",
+  "icon": "data\\title\\mons_014.dds",
+  "name": "Miggun",
+  "name_por": "Miggun",
+  "pages": [
+   "Miggun appear during the fight with Orjugan. These monsters are like missiles."
+  ],
+  "pages_por": [
+   "Os Miggun aparecem durante a luta contra Orjugan. Esses monstros sao como misseis."
+  ]
+ },
+ {
+  "id": 117,
+  "section": "monster",
+  "icon": "data\\title\\mons_057.dds",
+  "name": "Romun Soldier",
+  "name_por": "Soldado Romuno",
+  "pages": [
+   "Soldiers of the Royal Romun Army appear when the Romun fleet attacks. Their spears are surprisingly deadly."
+  ],
+  "pages_por": [
+   "Soldados do Exercito Real Romuno que surgem no ataque da frota. Suas lancas sao muito letais."
+  ]
+ },
+ {
+  "id": 118,
+  "section": "monster",
+  "icon": "data\\title\\mons_031.dds",
+  "name": "Varion",
+  "name_por": "Varion",
+  "pages": [
+   "Varion appears in the Ruined City of Kishgal. This monster is similar to a motorcycle."
+  ],
+  "pages_por": [
+   "Varion aparece na Cidade em Ruinas de Kishgal. Este monstro lembra uma motocicleta."
+  ]
+ },
+ {
+  "id": 119,
+  "section": "monster",
+  "icon": "data\\title\\mons_032.dds",
+  "name": "Giron",
+  "name_por": "Giron",
+  "pages": [
+   "Giron spins as it fires multiple beams."
+  ],
+  "pages_por": [
+   "Giron gira enquanto dispara varios raios."
+  ]
+ },
+ {
+  "id": 120,
+  "section": "monster",
+  "icon": "data\\title\\mons_042.dds",
+  "name": "Zeparos",
+  "name_por": "Zeparos",
+  "pages": [
+   "Zeparos is a stationary flamethrower device. Approach this monster while following the spinning fire."
+  ],
+  "pages_por": [
+   "Zeparos e um lanca-chamas fixo. Aproxime-se dele acompanhando o giro do fogo."
+  ]
+ },
+ {
+  "id": 121,
+  "section": "monster",
+  "icon": "data\\title\\mons_043.dds",
+  "name": "Clarin",
+  "name_por": "Clarin",
+  "pages": [
+   "It releases balls of healing energy to restore the monsters around it. Adol can also nab these to gain HP."
+  ],
+  "pages_por": [
+   "Libera bolas de energia que curam os monstros ao redor. Adol tambem pode pega-las para ganhar HP."
+  ]
+ },
+ {
+  "id": 122,
+  "section": "monster",
+  "icon": "data\\title\\mons_029.dds",
+  "name": "Oacha",
+  "name_por": "Oacha",
+  "pages": [
+   "Oacha is a frightening monster that chases after Adol and explodes. If defeated, it often drops honey."
+  ],
+  "pages_por": [
+   "Oacha e um monstro assustador que persegue Adol e explode. Quando derrotado, costuma deixar mel."
+  ]
+ },
+ {
+  "id": 123,
+  "section": "monster",
+  "icon": "data\\title\\mons_045.dds",
+  "name": "Rupenar",
+  "name_por": "Rupenar",
+  "pages": [
+   "Rupenar fires countless gusts of razor wind by spinning its sharp blades."
+  ],
+  "pages_por": [
+   "Rupenar dispara incontaveis rajadas de vento cortante girando suas laminas afiadas."
+  ]
+ },
+ {
+  "id": 124,
+  "section": "monster",
+  "icon": "data\\title\\mons_046.dds",
+  "name": "Archis",
+  "name_por": "Archis",
+  "pages": [
+   "It specializes in spinning attacks. The blue potions it occasionally drops are powerful recovery items."
+  ],
+  "pages_por": [
+   "E especialista em ataques giratorios. As pocoes azuis que as vezes deixa sao otimas para curar."
+  ]
+ }
+]
